@@ -934,6 +934,6 @@ iframe.wait-autoplay {
 
 @media screen and (max-height: 420px) {
   .goverlay {
-    background: #000;
+    background: #FFFFFF;
   }
 }
